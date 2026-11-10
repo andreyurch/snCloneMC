@@ -6,6 +6,12 @@ snCloneMC computes arm-level and focal copy-number profiles for every nucleus ag
 
 It was developed for, and applied to, 228 early-stage HR+/HER2– breast tumours (see [Citation](#citation)).
 
+
+
+<img width="1674" height="927" alt="Screenshot 2026-11-10 at 15 10 45" src="https://github.com/user-attachments/assets/0d4a196c-339e-4ea8-b879-bccec94535fd" />
+
+
+
 ## Overview
 
 ```

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "snCloneMC: clustering and clonal inference for targeted snDNA-seq data based on mutations and copy-number alterations"
+authors:
+  - family-names: Yurchenko
+    given-names: Andrey A.
+    orcid: "https://orcid.org/0000-0002-2239-6902"
+    affiliation: "Inserm U1361 Cancer Data Science, Gustave Roussy"
+version: 2.0.0
+license: MIT
+repository-code: "https://github.com/USERNAME/snCloneMC"
+preferred-citation:
+  type: article
+  title: "Single-nucleus genomic profiling of HR+/HER2– breast tumors revealed limited intratumoral genetic heterogeneity in early-stage disease"
+  status: in-preparation
+  authors:
+    - family-names: Yurchenko
+      given-names: Andrey A.
+    - family-names: Verret
+      given-names: B.
+    - family-names: Nikolaev
+      given-names: Sergey

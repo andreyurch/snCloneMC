@@ -1,0 +1,29 @@
+# Data: never commit patient or sequencing data
+*.h5
+*.tsv
+*.txt
+*.vcf
+*.maf
+*.rds
+*.pdf
+data/
+results/
+!requirements.txt
+!resources/maf_header.txt
+
+# Local configs (may contain private paths)
+config/*
+!config/config_example.R
+
+# Secrets
+.env
+*token*
+
+# R / Python / OS
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

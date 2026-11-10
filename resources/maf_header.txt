@@ -1,0 +1,1 @@
+Chromosome	Start_Position	End_Position	Reference_Allele	Tumor_Seq_Allele2	Func.refGene	Gene.refGene	ExonicFunc.refGene	AAChange.refGene	avsnp150	AF	AF_popmax	CLNDN	CLNDISDB	CLNREVSTAT	CLNSIG	CADD_phred	Interpro_domain	variant	Genotyped_cells	Mutated_cells	VAF_by_cell_count	VAF_by_read_count	WT_cells	HET_cells	HOM_cells	VAF_of_WT_cells	VAF_of_HET_cells	VAF_of_HOM_cells

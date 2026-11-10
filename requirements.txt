@@ -1,0 +1,3 @@
+# Step 1. Mosaic (missionbio.mosaic) is also required: install it following its developer's instructions.
+pandas
+numpy
